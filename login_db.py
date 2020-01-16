@@ -1,6 +1,6 @@
 import pymysql
 
-db = pymysql.connect("server", "username", "password", "database")
+db = pymysql.connect("server", "username", "password", "login_database")
 
 
 # creates a new user
