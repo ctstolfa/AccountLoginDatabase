@@ -8,4 +8,4 @@ Validates if usernames exist in the database and implements password verificatio
 
 db_maker can be ran to create a new data base and table to store account data
 
-# MAKE SURE CONNECTION LINES USE SAME HOST, USER, AND DATABASE
+MAKE SURE CONNECTION LINES USE SAME HOST, USER, AND DATABASE
